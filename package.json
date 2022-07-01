@@ -1,0 +1,28 @@
+{
+  "//1": "Matthe Register Bot",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Matthe Register Bot",
+  "main": "matthe.js",
+  "scripts": {
+    "start": "node matthe.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
